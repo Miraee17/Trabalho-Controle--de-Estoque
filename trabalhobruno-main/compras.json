@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "produto": "Calcinha de renda",
+        "id_fornecedor": 1,
+        "quantidade": 45,
+        "data": "01/07/2026",
+        "categoria": "Roupa"
+    }
+]
